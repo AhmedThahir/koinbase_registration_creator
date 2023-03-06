@@ -2,6 +2,8 @@
 
 Create registrations for https://web.koinbasket.com/signIn
 
+Approx Time Spent: 1hr
+
 ## Disclaimer
 
 Use at your own risk.
